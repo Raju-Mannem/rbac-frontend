@@ -1,0 +1,18 @@
+@media (max-width: 350px) {
+  #nav-ul {
+    display: none;
+  }
+  #mb-btn {
+    display: block;
+  }
+}
+#mb-btn {
+  display: none;
+}
+.bar{
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 6px 0;
+    transition: 0.4s;
+}
